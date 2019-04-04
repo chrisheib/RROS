@@ -390,8 +390,6 @@ MonoBehaviour:
   wallPrefab: {fileID: 1718171707080706, guid: 7d2df3d503b1fc647918f31f26c5c83b, type: 2}
   wallWithEnergyCrystalPrefab: {fileID: 1327514980249624, guid: 2dc1d154e4916224eb2db5f0a4b56cd8,
     type: 2}
-  indestructibleWalltilePrefab: {fileID: 1242064692450116, guid: b4a3e5160c3849342866ce206f506bed,
-    type: 2}
   mainWorker: {fileID: 724434307}
 --- !u!4 &1760150650
 Transform:
